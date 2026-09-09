@@ -1,0 +1,4 @@
+%fact
+likes(sakshi,anjali).
+likes(anjali,sakshi).
+likes(sejal,kajal).
